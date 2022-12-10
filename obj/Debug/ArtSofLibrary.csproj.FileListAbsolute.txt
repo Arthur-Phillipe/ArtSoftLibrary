@@ -1,0 +1,6 @@
+C:\CsWS\ArtSofLibrary\bin\Debug\ArtSofLibrary.dll
+C:\CsWS\ArtSofLibrary\bin\Debug\ArtSofLibrary.pdb
+C:\CsWS\ArtSofLibrary\obj\Debug\ArtSofLibrary.csproj.AssemblyReference.cache
+C:\CsWS\ArtSofLibrary\obj\Debug\ArtSofLibrary.csproj.CoreCompileInputs.cache
+C:\CsWS\ArtSofLibrary\obj\Debug\ArtSofLibrary.dll
+C:\CsWS\ArtSofLibrary\obj\Debug\ArtSofLibrary.pdb
